@@ -2,7 +2,7 @@
 /**
  * File: index.php
  * Halaman utama untuk menampilkan daftar registrasi pembayaran kuliah
- * dengan tampilan terpisah per kategori
+ * dengan tampilan terpisah per kategor
  */
 
 require_once 'database.php';

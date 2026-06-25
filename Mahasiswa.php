@@ -2,7 +2,7 @@
 
 /**
  * File: Mahasiswa.php
- * Abstract class Mahasiswa
+ * Abstract class Mahasisw
  */
 
 abstract class Mahasiswa {

@@ -2,7 +2,7 @@
 
 /**
  * File: MahasiswaPrestasi.php
- * Class MahasiswaPrestasi - Subclass dari Mahasiswa
+ * Class MahasiswaPrestasi - Subclass dari Mahasisw
  */
 
 class MahasiswaPrestasi extends Mahasiswa {
